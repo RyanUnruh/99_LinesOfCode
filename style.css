@@ -1,0 +1,21 @@
+body {
+    margin: auto;
+    background-color: #333;
+    color: #f1f1f1;
+}
+h1{
+    padding: 0 18px;
+}
+p, h3 {
+    padding: 4px 1em;
+    margin: 0;
+}
+
+#friend {
+    
+    background-color: rgb(71, 66, 58);
+}
+
+#friend h3 {
+    text-transform: uppercase;
+}
